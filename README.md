@@ -46,7 +46,7 @@ Mini Projects
   * 7/regexp/isaac-christina-leslie
 
 * login
-  * Leslie Bresnahan, Claire, Burghard
+  * Leslie Bresnahan, Claire Burghard
   * 7/mongoproj/leslie-claire
   
 
